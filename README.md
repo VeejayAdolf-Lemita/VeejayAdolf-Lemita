@@ -10,10 +10,9 @@ Hi 👋 My name is Veejay
 Front End Developer & Designer
 ------------------------------
 
-I've been learning ALL THE PROGRAMMING LANGUAGE
 
-* 🌍  I'm based in Philippines MOTHER FUCKERS!!!!!
-* 🧠  I'm SUPER SAIYAN FRONT END DEVELOPER
+* 🌍  I'm based in Philippines 
+* 🧠  
 
 ### Skills
 
