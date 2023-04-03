@@ -6,7 +6,7 @@ Hi 👋 My name is Veejay
 Front End Developer & Designer
 ------------------------------
 
-I've been learning HTML5, CSS3 & JavaScript
+I've been learning React, Node, Express, MongoDB, and Mongoose
 
 * 🌍  I'm based in Philippines
 * 🧠  I'm learning javaScript
