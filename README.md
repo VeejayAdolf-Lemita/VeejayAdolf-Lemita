@@ -34,4 +34,14 @@ I've been learning React, Node, Express, MongoDB, and Mongoose
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/VeejayAdolf-Lemita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/VeejayAdolf-Lemita" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+ <a href="https://www.linkedin.com/in/veejay-adolf-lemita-b572b217b/" target="_blank" rel="noreferrer">
+    <img src="LINKEDIN_ICON_URL" width="32" height="32" />
+  </a>
+  <a href="https://www.facebook.com/veejay.lemita.75/" target="_blank" rel="noreferrer">
+    <img src="FACEBOOK_ICON_URL" width="32" height="32" />
+  </a>
+  <a href="mailto:lemvee11@gmail.com" target="_blank" rel="noreferrer">
+    <img src="GMAIL_ICON_URL" width="32" height="32" />
+  </a>
+</p>
