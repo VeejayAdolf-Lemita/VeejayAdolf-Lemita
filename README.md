@@ -9,7 +9,7 @@ Front End Developer & Designer
 I've been learning React, Node, Express, MongoDB, and Mongoose
 
 * 🌍  I'm based in Philippines
-* 🧠  I'm currently looking for opportunity <3
+* 🧠  I'm currently looking for opportunity
 
 ### Skills
 
