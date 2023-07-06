@@ -3,10 +3,9 @@
 Hi 👋 My name is Veejay
 =======================
 
-Front End Developer & Designer
+Fullstack Developer & UI Designer
 ------------------------------
-
-I've been learning React, Node, Express, MongoDB, and Mongoose
+Frontend Dev transitioning ----> Fullstack Dev
 
 * 🌍  I'm based in Philippines
 * 🧠  I'm currently looking for opportunity
