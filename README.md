@@ -41,3 +41,6 @@ Frontend Dev transitioning ----> Fullstack Dev
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
   </a>
 </p>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-VeejayAdolf-Lemita&theme=dark&background=000000)](https://git.io/streak-stats)
