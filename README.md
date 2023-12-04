@@ -43,4 +43,4 @@ Frontend Dev transitioning ----> Fullstack Dev
 </p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-VeejayAdolf-Lemita&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VeejayAdolf-Lemita&theme=dark&background=000000)](https://git.io/streak-stats)
