@@ -3,9 +3,8 @@
 Hi 👋 My name is Veejay
 =======================
 
-Fullstack Developer & UI Designer
+Frontend Developer & UI Designer
 ------------------------------
-Frontend Dev transitioning ----> Fullstack Dev
 
 * 🌍  I'm based in Philippines
 * 🧠  I'm currently looking for opportunity
