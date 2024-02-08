@@ -3,7 +3,7 @@
 Hi 👋 My name is Veejay
 =======================
 
-Frontend Developer & UI Designer
+Frontend Developer / React Developer
 ------------------------------
 
 * 🌍  I'm based in Philippines
